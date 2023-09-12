@@ -8,7 +8,9 @@ My Recipe Book - твой личный помощник на кухне. Нах�
 
 
 ## About
-Приложение было выполнено в рамках практического <a href="https://boosty.to/swiftmarathon?from=email" style="text-decoration:underline;">Swift-марафона</a> 
+Приложение было выполнено в рамках практики <a href="https://boosty.to/swiftmarathon?from=email" style="text-decoration:underline;">Swift-marathone</a> 
+
+![App Screenshot](https://github.com/etozhekolyan/RecipesClientBook/blob/main/readmeSource/Simulator%20Screen%20Recording%20-%20iPhone%2011%20Pro%20-%202023-09-12%20at%2010.13.18.gif)
 
 
 Над приложением работали:   
